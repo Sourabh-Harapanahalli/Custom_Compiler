@@ -42,8 +42,6 @@ python Dlang_Compiler.py test-hw3.dlang
 Custom_Compiler/
 │── Dlang_Compiler.py             # Main compiler script (lexer, parser, symbol table)
 │── test-hw3.dlang                # Sample DSL program
-│── README.md                     # Project documentation
-│── auto_git_push.sh              # Script to automate Git commits and pushes
 ```
 
 ## License
